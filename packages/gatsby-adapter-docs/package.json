@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-adapter-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "devDependencies": {
+    "gatsby": "2.1.8",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  },
+  "peerDependencies": {
+    "gatsby": "2.1.8",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  },
+  "dependencies": {
+    "gatsby-plugin-compile-es6-packages": "^1.0.6"
+  }
+}
